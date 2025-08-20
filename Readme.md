@@ -73,7 +73,7 @@ Getting started is just a few clicks away.
     *   Install it for your operating system (Windows, Mac, or Linux).
 
 *   **Step 2: Open Your Terminal**
-    *   Once installed, open your terminal. I prefer using one built into an IDE like **WebStorm**, as its Git support is extraordinary and makes everything seamless.
+    *   Once installed, open your terminal. I prefer using one built into an IDE like **VS Code**, as its Git support is extraordinary and makes everything seamless.
 
 *   **Step 3: Verify Installation**
     *   Run `git --version` to check if it was installed properly. You should see the installed version number.
@@ -329,6 +329,7 @@ Congratulations! If you've followed along, you have a solid understanding of Git
 
 
 Thank you so much for watching, and have a wonderful day
+
 
 
 
