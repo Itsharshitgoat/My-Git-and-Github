@@ -1,6 +1,6 @@
 
 ***
-# 🚀 Mastering Git & GitHub: The Ultimate Crash Course
+# 🚀 Mastering Git & GitHub: Crash Course
 ---
 
 ### 📖 Table of Contents
@@ -329,4 +329,5 @@ Congratulations! If you've followed along, you have a solid understanding of Git
 
 
 Thank you so much for watching, and have a wonderful day
+
 
