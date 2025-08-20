@@ -30,7 +30,7 @@ Imagine you're working on a coding project and you make a mistake that breaks ev
 
 #### What You'll Become ✨
 
-By the end of this course, you'll be your company's go-to Git guru—the person everyone turns to when things go south. You'll master how to:
+By the end of this course, you'll be your company's go-to Git guy the person everyone turns to when things go south. You'll master how to:
 
 *   ✅ **Track code changes** and collaborate with your team.
 *   ✅ Professionally **resolve merge conflicts**.
@@ -329,5 +329,6 @@ Congratulations! If you've followed along, you have a solid understanding of Git
 
 
 Thank you so much for watching, and have a wonderful day
+
 
 
