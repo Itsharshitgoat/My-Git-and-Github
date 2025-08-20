@@ -325,11 +325,3 @@ While knowing the commands is vital, a **Graphical User Interface (GUI)** can ma
 Congratulations! If you've followed along, you have a solid understanding of Git and GitHub. You can confidently add this skill to your resume and tackle real-world development challenges.
 
 *   **Practice Makes Perfect:** Git can be tricky at first. Don't worry if you don't remember everything. With practice, it will become second nature.
-*   **Don't Forget Your Cheat Sheet:** For those situations where you need to pull an obscure command out of your pocket, don't forget to grab the reference guide.
-
-
-Thank you so much for watching, and have a wonderful day
-
-
-
-
